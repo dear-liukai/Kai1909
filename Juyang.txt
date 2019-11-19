@@ -1,2 +1,3 @@
 def fun():
     print("Juyang做了")
+import Mysql
